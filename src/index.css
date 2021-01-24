@@ -13,6 +13,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(to right, #43c6ac, #191654);
+  overflow: "hidden";
 }
 
 h1 {
